@@ -1,5 +1,5 @@
 # `Project Climate` Data Processing Functions --------
-# UDFS: Maxwell Vanlandschoot and Julian Schmitt -----
+# UDFS: Maxwell VanLandschoot and Julian Schmitt -----
 # Summer 2022 ----------------------------------------
 
 # load data files ------------------------------------
