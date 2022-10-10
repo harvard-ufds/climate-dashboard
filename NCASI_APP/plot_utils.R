@@ -1,5 +1,5 @@
 # `Project Climate` Plotting Functions ---------------
-# UDFS: Maxwell Vanlandschoot and Julian Schmitt -----
+# UDFS: Maxwell VanLandschoot and Julian Schmitt -----
 # Summer 2022 ----------------------------------------
 
 
