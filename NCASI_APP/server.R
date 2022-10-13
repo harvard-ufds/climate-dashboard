@@ -186,7 +186,7 @@ app_info <- modalDialog(
   showModal(app_info)
 
   output$sumtabtitle <- renderText({
-    paste("Summary Table for",input$species,"Under RCP",as.numeric(input$rcps)/10,"from",input$year[1],"to",input$year[2],sep = " ")
+    paste("Climate Projection Summary Under RCP",as.numeric(input$rcps)/10,"from",input$year[1],"to",input$year[2],sep = " ")
   })
   
   output$linetabtitle <- renderText({
