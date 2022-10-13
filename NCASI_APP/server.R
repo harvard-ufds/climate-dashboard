@@ -1,5 +1,5 @@
 # Server-side `Project Climate` App Implementation ---
-# UDFS: Maxwell Vanlandschoot and Julian Schmitt -----
+# UDFS: Maxwell VanLandschoot and Julian Schmitt -----
 # Summer 2022 ----------------------------------------
 
 source("utils.R")
