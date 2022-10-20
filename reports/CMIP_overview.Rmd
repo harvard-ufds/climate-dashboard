@@ -1,6 +1,6 @@
 ---
 title: "CMIP Additional Notes"
-author: "Julian Schmitt & Maxwell Vanlanschoot"
+author: "Julian Schmitt & Maxwell VanLandschoot"
 date: "6/8/2022"
 output: pdf_document
 ---
