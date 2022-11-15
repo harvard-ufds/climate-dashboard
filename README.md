@@ -8,4 +8,4 @@ Feel free to checkout the working demo [here](https://ncasi-shiny-tools.shinyapp
 The National Council for Air and Stream Improvement, Inc, or [NCASI](https://www.ncasi.org), has the goal of help members cost-effectively meet their environmental and sustainability goals through basic and applied research, technical support, and education. This project supports their goal of applied research alongside education and educational outreach. Feel free to check them out! 
 
 ## Project Thanks :bangbang:
-We are greatful to Dr. Kelly McConville, Dr. Kate Hu, Dr. Holly Munro, amd Dr. Stephen Prisley for their inspiration and help!
+We are greatful to Dr. Kelly McConville, Dr. Kate Hu, Dr. Holly Munro, Dr. Stephen Prisley, and Grayson White for their inspiration and help!
